@@ -815,6 +815,8 @@ exports[`Clock type analog precision hours size huge 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -824,8 +826,7 @@ exports[`Clock type analog precision hours size huge 1`] = `
 
 .c2 {
   stroke-width: 8px;
-  stroke: #777777;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: dark-3;
   transition: stroke 1s ease-out;
 }
 
@@ -863,6 +864,8 @@ exports[`Clock type analog precision hours size large 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -872,8 +875,7 @@ exports[`Clock type analog precision hours size large 1`] = `
 
 .c2 {
   stroke-width: 8px;
-  stroke: #777777;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: dark-3;
   transition: stroke 1s ease-out;
 }
 
@@ -911,6 +913,8 @@ exports[`Clock type analog precision hours size medium 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -920,8 +924,7 @@ exports[`Clock type analog precision hours size medium 1`] = `
 
 .c2 {
   stroke-width: 8px;
-  stroke: #777777;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: dark-3;
   transition: stroke 1s ease-out;
 }
 
@@ -959,6 +962,8 @@ exports[`Clock type analog precision hours size small 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -968,8 +973,7 @@ exports[`Clock type analog precision hours size small 1`] = `
 
 .c2 {
   stroke-width: 8px;
-  stroke: #777777;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: dark-3;
   transition: stroke 1s ease-out;
 }
 
@@ -1007,6 +1011,8 @@ exports[`Clock type analog precision hours size xlarge 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -1016,8 +1022,7 @@ exports[`Clock type analog precision hours size xlarge 1`] = `
 
 .c2 {
   stroke-width: 8px;
-  stroke: #777777;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: dark-3;
   transition: stroke 1s ease-out;
 }
 
@@ -1055,6 +1060,8 @@ exports[`Clock type analog precision hours size xsmall 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -1064,8 +1071,7 @@ exports[`Clock type analog precision hours size xsmall 1`] = `
 
 .c2 {
   stroke-width: 8px;
-  stroke: #777777;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: dark-3;
   transition: stroke 1s ease-out;
 }
 
@@ -1103,6 +1109,8 @@ exports[`Clock type analog precision hours size xxlarge 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -1112,8 +1120,7 @@ exports[`Clock type analog precision hours size xxlarge 1`] = `
 
 .c2 {
   stroke-width: 8px;
-  stroke: #777777;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: dark-3;
   transition: stroke 1s ease-out;
 }
 
@@ -1151,6 +1158,8 @@ exports[`Clock type analog precision minutes size huge 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -1160,15 +1169,13 @@ exports[`Clock type analog precision minutes size huge 1`] = `
 
 .c3 {
   stroke-width: 8px;
-  stroke: #777777;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: dark-3;
   transition: stroke 1s ease-out;
 }
 
 .c2 {
   stroke-width: 4px;
-  stroke: #777777;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: dark-3;
   transition: stroke 1s ease-out;
 }
 
@@ -1216,6 +1223,8 @@ exports[`Clock type analog precision minutes size large 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -1225,15 +1234,13 @@ exports[`Clock type analog precision minutes size large 1`] = `
 
 .c3 {
   stroke-width: 8px;
-  stroke: #777777;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: dark-3;
   transition: stroke 1s ease-out;
 }
 
 .c2 {
   stroke-width: 4px;
-  stroke: #777777;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: dark-3;
   transition: stroke 1s ease-out;
 }
 
@@ -1281,6 +1288,8 @@ exports[`Clock type analog precision minutes size medium 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -1290,15 +1299,13 @@ exports[`Clock type analog precision minutes size medium 1`] = `
 
 .c3 {
   stroke-width: 8px;
-  stroke: #777777;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: dark-3;
   transition: stroke 1s ease-out;
 }
 
 .c2 {
   stroke-width: 4px;
-  stroke: #777777;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: dark-3;
   transition: stroke 1s ease-out;
 }
 
@@ -1346,6 +1353,8 @@ exports[`Clock type analog precision minutes size small 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -1355,15 +1364,13 @@ exports[`Clock type analog precision minutes size small 1`] = `
 
 .c3 {
   stroke-width: 8px;
-  stroke: #777777;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: dark-3;
   transition: stroke 1s ease-out;
 }
 
 .c2 {
   stroke-width: 4px;
-  stroke: #777777;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: dark-3;
   transition: stroke 1s ease-out;
 }
 
@@ -1411,6 +1418,8 @@ exports[`Clock type analog precision minutes size xlarge 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -1420,15 +1429,13 @@ exports[`Clock type analog precision minutes size xlarge 1`] = `
 
 .c3 {
   stroke-width: 8px;
-  stroke: #777777;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: dark-3;
   transition: stroke 1s ease-out;
 }
 
 .c2 {
   stroke-width: 4px;
-  stroke: #777777;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: dark-3;
   transition: stroke 1s ease-out;
 }
 
@@ -1476,6 +1483,8 @@ exports[`Clock type analog precision minutes size xsmall 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -1485,15 +1494,13 @@ exports[`Clock type analog precision minutes size xsmall 1`] = `
 
 .c3 {
   stroke-width: 8px;
-  stroke: #777777;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: dark-3;
   transition: stroke 1s ease-out;
 }
 
 .c2 {
   stroke-width: 4px;
-  stroke: #777777;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: dark-3;
   transition: stroke 1s ease-out;
 }
 
@@ -1541,6 +1548,8 @@ exports[`Clock type analog precision minutes size xxlarge 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -1550,15 +1559,13 @@ exports[`Clock type analog precision minutes size xxlarge 1`] = `
 
 .c3 {
   stroke-width: 8px;
-  stroke: #777777;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: dark-3;
   transition: stroke 1s ease-out;
 }
 
 .c2 {
   stroke-width: 4px;
-  stroke: #777777;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: dark-3;
   transition: stroke 1s ease-out;
 }
 
@@ -1606,6 +1613,8 @@ exports[`Clock type analog precision seconds size huge 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -1615,22 +1624,19 @@ exports[`Clock type analog precision seconds size huge 1`] = `
 
 .c4 {
   stroke-width: 8px;
-  stroke: #777777;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: dark-3;
   transition: stroke 1s ease-out;
 }
 
 .c3 {
   stroke-width: 4px;
-  stroke: #777777;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: dark-3;
   transition: stroke 1s ease-out;
 }
 
 .c2 {
   stroke-width: 3px;
-  stroke: #6FFFB0;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: accent-1;
   transition: stroke 1s ease-out;
 }
 
@@ -1688,6 +1694,8 @@ exports[`Clock type analog precision seconds size large 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -1697,22 +1705,19 @@ exports[`Clock type analog precision seconds size large 1`] = `
 
 .c4 {
   stroke-width: 8px;
-  stroke: #777777;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: dark-3;
   transition: stroke 1s ease-out;
 }
 
 .c3 {
   stroke-width: 4px;
-  stroke: #777777;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: dark-3;
   transition: stroke 1s ease-out;
 }
 
 .c2 {
   stroke-width: 3px;
-  stroke: #6FFFB0;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: accent-1;
   transition: stroke 1s ease-out;
 }
 
@@ -1770,6 +1775,8 @@ exports[`Clock type analog precision seconds size medium 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -1779,22 +1786,19 @@ exports[`Clock type analog precision seconds size medium 1`] = `
 
 .c4 {
   stroke-width: 8px;
-  stroke: #777777;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: dark-3;
   transition: stroke 1s ease-out;
 }
 
 .c3 {
   stroke-width: 4px;
-  stroke: #777777;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: dark-3;
   transition: stroke 1s ease-out;
 }
 
 .c2 {
   stroke-width: 3px;
-  stroke: #6FFFB0;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: accent-1;
   transition: stroke 1s ease-out;
 }
 
@@ -1852,6 +1856,8 @@ exports[`Clock type analog precision seconds size small 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -1861,22 +1867,19 @@ exports[`Clock type analog precision seconds size small 1`] = `
 
 .c4 {
   stroke-width: 8px;
-  stroke: #777777;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: dark-3;
   transition: stroke 1s ease-out;
 }
 
 .c3 {
   stroke-width: 4px;
-  stroke: #777777;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: dark-3;
   transition: stroke 1s ease-out;
 }
 
 .c2 {
   stroke-width: 3px;
-  stroke: #6FFFB0;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: accent-1;
   transition: stroke 1s ease-out;
 }
 
@@ -1934,6 +1937,8 @@ exports[`Clock type analog precision seconds size xlarge 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -1943,22 +1948,19 @@ exports[`Clock type analog precision seconds size xlarge 1`] = `
 
 .c4 {
   stroke-width: 8px;
-  stroke: #777777;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: dark-3;
   transition: stroke 1s ease-out;
 }
 
 .c3 {
   stroke-width: 4px;
-  stroke: #777777;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: dark-3;
   transition: stroke 1s ease-out;
 }
 
 .c2 {
   stroke-width: 3px;
-  stroke: #6FFFB0;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: accent-1;
   transition: stroke 1s ease-out;
 }
 
@@ -2016,6 +2018,8 @@ exports[`Clock type analog precision seconds size xsmall 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -2025,22 +2029,19 @@ exports[`Clock type analog precision seconds size xsmall 1`] = `
 
 .c4 {
   stroke-width: 8px;
-  stroke: #777777;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: dark-3;
   transition: stroke 1s ease-out;
 }
 
 .c3 {
   stroke-width: 4px;
-  stroke: #777777;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: dark-3;
   transition: stroke 1s ease-out;
 }
 
 .c2 {
   stroke-width: 3px;
-  stroke: #6FFFB0;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: accent-1;
   transition: stroke 1s ease-out;
 }
 
@@ -2098,6 +2099,8 @@ exports[`Clock type analog precision seconds size xxlarge 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -2107,22 +2110,19 @@ exports[`Clock type analog precision seconds size xxlarge 1`] = `
 
 .c4 {
   stroke-width: 8px;
-  stroke: #777777;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: dark-3;
   transition: stroke 1s ease-out;
 }
 
 .c3 {
   stroke-width: 4px;
-  stroke: #777777;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: dark-3;
   transition: stroke 1s ease-out;
 }
 
 .c2 {
   stroke-width: 3px;
-  stroke: #6FFFB0;
-  -webkit-transition: stroke 1s ease-out;
+  stroke: accent-1;
   transition: stroke 1s ease-out;
 }
 

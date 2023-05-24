@@ -649,12 +649,9 @@ exports[`Skeleton Skeleton with theme 1`] = `
 exports[`Skeleton renders 1`] = `
 <DocumentFragment>
   .c1 {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
   box-sizing: border-box;
-  background-color: #EDEDED;
+  background-color: #EEEEEE;
   color: #444444;
   height: 24px;
   width: 100%;
@@ -663,6 +660,8 @@ exports[`Skeleton renders 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -674,6 +673,7 @@ exports[`Skeleton renders 1`] = `
     class="c0"
   >
     <div
+      background="background-back"
       class="c1"
     />
   </div>

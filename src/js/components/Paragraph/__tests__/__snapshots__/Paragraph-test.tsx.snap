@@ -4,6 +4,8 @@ exports[`Paragraph dangerouslySetInnerHTML renders 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -32,6 +34,8 @@ exports[`Paragraph margin renders 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -86,21 +90,27 @@ exports[`Paragraph margin renders 1`] = `
 >
   <p
     class="c1"
+    margin="small"
   />
   <p
     class="c2"
+    margin="medium"
   />
   <p
     class="c3"
+    margin="large"
   />
   <p
     class="c4"
+    margin="none"
   />
   <p
     class="c5"
+    margin="[object Object]"
   />
   <p
     class="c6"
+    margin="[object Object]"
   />
 </div>
 `;
@@ -139,6 +149,8 @@ exports[`Paragraph renders 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;

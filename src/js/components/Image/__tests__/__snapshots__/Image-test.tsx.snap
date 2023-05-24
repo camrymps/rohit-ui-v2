@@ -50,6 +50,8 @@ exports[`Image fit renders 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -58,16 +60,12 @@ exports[`Image fit renders 1`] = `
 }
 
 .c1 {
-  -webkit-flex: 1 1;
-  -ms-flex: 1 1;
   flex: 1 1;
   overflow: hidden;
   object-fit: cover;
 }
 
 .c2 {
-  -webkit-flex: 1 1;
-  -ms-flex: 1 1;
   flex: 1 1;
   overflow: hidden;
   object-fit: contain;
@@ -78,10 +76,12 @@ exports[`Image fit renders 1`] = `
 >
   <img
     class="c1"
+    fit="cover"
     src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAAA1JREFUCB1jYGBg+A8AAQQBAB5znEAAAAAASUVORK5CYII="
   />
   <img
     class="c2"
+    fit="contain"
     src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAAA1JREFUCB1jYGBg+A8AAQQBAB5znEAAAAAASUVORK5CYII="
   />
 </div>
@@ -237,6 +237,8 @@ exports[`Image renders 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -258,6 +260,8 @@ exports[`Image renders with aria-label 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;

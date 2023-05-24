@@ -8,7 +8,7 @@
     "sourceMap": true,
     "module": "esnext",
     "target": "es6",
-    "jsx": "react-jsx",
+    "jsx": "react",
     "declaration": true,
     "baseUrl": "./",
     "paths": {
@@ -21,5 +21,6 @@
     "typeRoots": ["./node_modules/@types/", "./src/@types/"]
   },
   "exclude": ["node_modules", "**/__tests__"],
-  "include": ["src/**/*"]
+  "include": ["src/**/*"],
+  "plugins": ["@babel/plugin-syntax-jsx"]
 }

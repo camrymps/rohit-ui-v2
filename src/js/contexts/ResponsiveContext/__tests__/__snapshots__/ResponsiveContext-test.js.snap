@@ -4,6 +4,8 @@ exports[`ResponsiveContext when viewport width is 768px should return small 1`] 
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -22,6 +24,8 @@ exports[`ResponsiveContext when viewport width is 1536px should return medium 1`
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -40,6 +44,8 @@ exports[`ResponsiveContext when viewport width is 1537px should return large 1`]
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;

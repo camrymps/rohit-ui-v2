@@ -4,6 +4,8 @@ exports[`Meter background 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -17,7 +19,6 @@ exports[`Meter background 1`] = `
 }
 
 .c1 path {
-  -webkit-transition: stroke 0.3s,stroke-width 0.3s;
   transition: stroke 0.3s,stroke-width 0.3s;
 }
 
@@ -34,14 +35,14 @@ exports[`Meter background 1`] = `
     <path
       d="M 0,12 L 384,12"
       fill="none"
-      stroke="#EDEDED"
+      stroke="light-3"
       stroke-linecap="square"
       stroke-width="24"
     />
     <path
       d="M 0,12 L 76.8,12"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
@@ -56,7 +57,7 @@ exports[`Meter background 1`] = `
     <path
       d="M 0,12 L 384,12"
       fill="none"
-      stroke="#EDEDED"
+      stroke="light-3"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -64,7 +65,7 @@ exports[`Meter background 1`] = `
     <path
       d="M 0,12 L 76.8,12"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
@@ -80,14 +81,14 @@ exports[`Meter background 1`] = `
       cy="192"
       fill="none"
       r="180"
-      stroke="#EDEDED"
+      stroke="light-3"
       stroke-linecap="square"
       stroke-width="24"
     />
     <path
       d="M 363.1901729331 136.3769410125 A 180.0000000000 180.0000000000 0 0 0 192.0000000000 12.0000000000"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
@@ -103,7 +104,7 @@ exports[`Meter background 1`] = `
       cy="192"
       fill="none"
       r="180"
-      stroke="#EDEDED"
+      stroke="light-3"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -111,7 +112,7 @@ exports[`Meter background 1`] = `
     <path
       d="M 363.1901729331 136.3769410125 A 180.0000000000 180.0000000000 0 0 0 192.0000000000 12.0000000000"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
@@ -126,7 +127,7 @@ exports[`Meter background 1`] = `
     <path
       d="M 0,12 L 384,12"
       fill="none"
-      stroke="#EDEDED"
+      stroke="light-3"
       stroke-linecap="square"
       stroke-opacity="0.2"
       stroke-width="24"
@@ -134,7 +135,7 @@ exports[`Meter background 1`] = `
     <path
       d="M 0,12 L 76.8,12"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
@@ -146,6 +147,8 @@ exports[`Meter basic 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -159,7 +162,6 @@ exports[`Meter basic 1`] = `
 }
 
 .c1 path {
-  -webkit-transition: stroke 0.3s,stroke-width 0.3s;
   transition: stroke 0.3s,stroke-width 0.3s;
 }
 
@@ -176,7 +178,7 @@ exports[`Meter basic 1`] = `
     <path
       d="M 0,12 L 384,12"
       fill="none"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -184,7 +186,7 @@ exports[`Meter basic 1`] = `
     <path
       d="M 0,12 L 76.8,12"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
@@ -196,6 +198,8 @@ exports[`Meter boundary values 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -209,7 +213,6 @@ exports[`Meter boundary values 1`] = `
 }
 
 .c1 path {
-  -webkit-transition: stroke 0.3s,stroke-width 0.3s;
   transition: stroke 0.3s,stroke-width 0.3s;
 }
 
@@ -227,7 +230,7 @@ exports[`Meter boundary values 1`] = `
       cy="192"
       fill="none"
       r="180"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -235,14 +238,14 @@ exports[`Meter boundary values 1`] = `
     <path
       d="M 368.6870620811 157.6243968322 A 180.0000000000 180.0000000000 0 0 0 192.0000000000 12.0000000000"
       fill="none"
-      stroke="#00873D"
+      stroke="#FFA500"
       stroke-linecap="butt"
       stroke-width="24"
     />
     <path
       d="M 191.9997957965 12.0000000001 A 180.0000000000 180.0000000000 0 1 0 368.6870620811 157.6243968322"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
@@ -254,6 +257,8 @@ exports[`Meter default 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -267,7 +272,6 @@ exports[`Meter default 1`] = `
 }
 
 .c1 path {
-  -webkit-transition: stroke 0.3s,stroke-width 0.3s;
   transition: stroke 0.3s,stroke-width 0.3s;
 }
 
@@ -284,7 +288,7 @@ exports[`Meter default 1`] = `
     <path
       d="M 0,12 L 384,12"
       fill="none"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -297,6 +301,8 @@ exports[`Meter large circle values 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -310,7 +316,6 @@ exports[`Meter large circle values 1`] = `
 }
 
 .c1 path {
-  -webkit-transition: stroke 0.3s,stroke-width 0.3s;
   transition: stroke 0.3s,stroke-width 0.3s;
 }
 
@@ -328,7 +333,7 @@ exports[`Meter large circle values 1`] = `
       cy="96"
       fill="none"
       r="90"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="12"
@@ -336,35 +341,35 @@ exports[`Meter large circle values 1`] = `
     <path
       d="M 156.0149675602 28.9313510740 A 90.0000000000 90.0000000000 0 0 0 96.0000000000 6.0000000000"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="12"
     />
     <path
       d="M 182.4540298401 70.9859894379 A 90.0000000000 90.0000000000 0 0 0 156.0149675602 28.9313510740"
       fill="none"
-      stroke="#00873D"
+      stroke="#FFA500"
       stroke-linecap="butt"
       stroke-width="12"
     />
     <path
       d="M 183.4934330444 117.0926331716 A 90.0000000000 90.0000000000 0 0 0 182.4540298401 70.9859894379"
       fill="none"
-      stroke="#3D138D"
+      stroke="graph-2"
       stroke-linecap="butt"
       stroke-width="12"
     />
     <path
       d="M 167.6249510067 150.4964805587 A 90.0000000000 90.0000000000 0 0 0 183.4934330444 117.0926331716"
       fill="none"
-      stroke="#00739D"
+      stroke="graph-3"
       stroke-linecap="butt"
       stroke-width="12"
     />
     <path
       d="M 96.0000000000 6.0000000000 A 90.0000000000 90.0000000000 0 1 0 167.6249510067 150.4964805587"
       fill="none"
-      stroke="#A2423D"
+      stroke="graph-4"
       stroke-linecap="butt"
       stroke-width="12"
     />
@@ -376,6 +381,8 @@ exports[`Meter many values 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -389,7 +396,6 @@ exports[`Meter many values 1`] = `
 }
 
 .c1 path {
-  -webkit-transition: stroke 0.3s,stroke-width 0.3s;
   transition: stroke 0.3s,stroke-width 0.3s;
 }
 
@@ -406,7 +412,7 @@ exports[`Meter many values 1`] = `
     <path
       d="M 0,12 L 384,12"
       fill="none"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -414,56 +420,56 @@ exports[`Meter many values 1`] = `
     <path
       d="M 336,12 L 384,12"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
     <path
       d="M 288,12 L 336,12"
       fill="none"
-      stroke="#00873D"
+      stroke="#FFA500"
       stroke-linecap="butt"
       stroke-width="24"
     />
     <path
       d="M 240,12 L 288,12"
       fill="none"
-      stroke="#3D138D"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
     <path
       d="M 192,12 L 240,12"
       fill="none"
-      stroke="#00739D"
+      stroke="#FFA500"
       stroke-linecap="butt"
       stroke-width="24"
     />
     <path
       d="M 144,12 L 192,12"
       fill="none"
-      stroke="#A2423D"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
     <path
       d="M 96,12 L 144,12"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#FFA500"
       stroke-linecap="butt"
       stroke-width="24"
     />
     <path
       d="M 48,12 L 96,12"
       fill="none"
-      stroke="#00873D"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
     <path
       d="M 0,12 L 48,12"
       fill="none"
-      stroke="#3D138D"
+      stroke="#FFA500"
       stroke-linecap="butt"
       stroke-width="24"
     />
@@ -475,6 +481,8 @@ exports[`Meter round 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -489,7 +497,6 @@ exports[`Meter round 1`] = `
 }
 
 .c1 path {
-  -webkit-transition: stroke 0.3s,stroke-width 0.3s;
   transition: stroke 0.3s,stroke-width 0.3s;
 }
 
@@ -499,7 +506,6 @@ exports[`Meter round 1`] = `
 }
 
 .c2 path {
-  -webkit-transition: stroke 0.3s,stroke-width 0.3s;
   transition: stroke 0.3s,stroke-width 0.3s;
 }
 
@@ -510,13 +516,14 @@ exports[`Meter round 1`] = `
     class="c1"
     height="24"
     preserveAspectRatio="none"
+    round="[object Object]"
     viewBox="0 0 384 24"
     width="384"
   >
     <path
       d="M 12,12 L 372,12"
       fill="none"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="round"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -524,7 +531,7 @@ exports[`Meter round 1`] = `
     <path
       d="M 12,12 L 84,12"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="round"
       stroke-width="24"
     />
@@ -540,7 +547,7 @@ exports[`Meter round 1`] = `
       cy="192"
       fill="none"
       r="180"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="round"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -548,14 +555,14 @@ exports[`Meter round 1`] = `
     <path
       d="M 363.1901729331 136.3769410125 A 180.0000000000 180.0000000000 0 0 0 192.0000000000 12.0000000000"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="round"
       stroke-width="24"
     />
     <path
       d="M 363.1901729331 136.3769410125 A 180.0000000000 180.0000000000 0 0 0 362.6982579371 134.8851618471"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="round"
       stroke-width="24"
     />
@@ -569,7 +576,7 @@ exports[`Meter round 1`] = `
     <path
       d="M 372.0000000000 192.0000000000 A 180.0000000000 180.0000000000 0 0 0 12.0000000000 192.0000000000"
       fill="none"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="round"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -577,14 +584,14 @@ exports[`Meter round 1`] = `
     <path
       d="M 46.3769410125 86.1986545874 A 180.0000000000 180.0000000000 0 0 0 12.0000000000 192.0000000000"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="round"
       stroke-width="24"
     />
     <path
       d="M 46.3769410125 86.1986545874 A 180.0000000000 180.0000000000 0 0 0 45.4592066959 87.4734679720"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="round"
       stroke-width="24"
     />
@@ -596,6 +603,8 @@ exports[`Meter single 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -609,7 +618,6 @@ exports[`Meter single 1`] = `
 }
 
 .c1 path {
-  -webkit-transition: stroke 0.3s,stroke-width 0.3s;
   transition: stroke 0.3s,stroke-width 0.3s;
 }
 
@@ -626,7 +634,7 @@ exports[`Meter single 1`] = `
     <path
       d="M 0,12 L 384,12"
       fill="none"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -634,7 +642,7 @@ exports[`Meter single 1`] = `
     <path
       d="M 0,12 L 96,12"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
@@ -646,6 +654,8 @@ exports[`Meter size 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -659,7 +669,6 @@ exports[`Meter size 1`] = `
 }
 
 .c1 path {
-  -webkit-transition: stroke 0.3s,stroke-width 0.3s;
   transition: stroke 0.3s,stroke-width 0.3s;
 }
 
@@ -676,7 +685,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 0,12 L 96,12"
       fill="none"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -684,7 +693,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 0,12 L 19.2,12"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
@@ -699,7 +708,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 0,12 L 192,12"
       fill="none"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -707,7 +716,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 0,12 L 38.4,12"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
@@ -722,7 +731,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 0,12 L 384,12"
       fill="none"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -730,7 +739,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 0,12 L 76.8,12"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
@@ -745,7 +754,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 0,12 L 768,12"
       fill="none"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -753,7 +762,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 0,12 L 153.6,12"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
@@ -768,7 +777,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 0,12 L 1152,12"
       fill="none"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -776,7 +785,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 0,12 L 230.4,12"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
@@ -791,7 +800,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 0,12 L 24,12"
       fill="none"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -799,7 +808,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 0,12 L 4.8,12"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
@@ -814,7 +823,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 0,12 L 288,12"
       fill="none"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -822,7 +831,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 0,12 L 57.6,12"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
@@ -838,7 +847,7 @@ exports[`Meter size 1`] = `
       cy="48"
       fill="none"
       r="36"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -846,7 +855,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 82.2380345866 36.8753882025 A 36.0000000000 36.0000000000 0 0 0 48.0000000000 12.0000000000"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
@@ -862,7 +871,7 @@ exports[`Meter size 1`] = `
       cy="96"
       fill="none"
       r="84"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -870,7 +879,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 175.8887473688 70.0425724725 A 84.0000000000 84.0000000000 0 0 0 96.0000000000 12.0000000000"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
@@ -886,7 +895,7 @@ exports[`Meter size 1`] = `
       cy="192"
       fill="none"
       r="180"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -894,7 +903,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 363.1901729331 136.3769410125 A 180.0000000000 180.0000000000 0 0 0 192.0000000000 12.0000000000"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
@@ -910,7 +919,7 @@ exports[`Meter size 1`] = `
       cy="384"
       fill="none"
       r="372"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -918,7 +927,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 737.7930240618 269.0456780925 A 372.0000000000 372.0000000000 0 0 0 384.0000000000 12.0000000000"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
@@ -934,7 +943,7 @@ exports[`Meter size 1`] = `
       cy="576"
       fill="none"
       r="564"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -942,7 +951,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 1112.3958751905 401.7144151725 A 564.0000000000 564.0000000000 0 0 0 576.0000000000 12.0000000000"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
@@ -958,7 +967,7 @@ exports[`Meter size 1`] = `
       cy="27.5"
       fill="none"
       r="15.5"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -966,7 +975,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 42.2413760026 22.7102365872 A 15.5000000000 15.5000000000 0 0 0 27.5000000000 12.0000000000"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
@@ -982,7 +991,7 @@ exports[`Meter size 1`] = `
       cy="144"
       fill="none"
       r="132"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -990,7 +999,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 269.5394601510 103.2097567425 A 132.0000000000 132.0000000000 0 0 0 144.0000000000 12.0000000000"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
@@ -1006,7 +1015,7 @@ exports[`Meter size 1`] = `
       cy="48"
       fill="none"
       r="24"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="48"
@@ -1014,7 +1023,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 70.8253563911 40.5835921350 A 24.0000000000 24.0000000000 0 0 0 48.0000000000 24.0000000000"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="48"
     />
@@ -1030,7 +1039,7 @@ exports[`Meter size 1`] = `
       cy="96"
       fill="none"
       r="48"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="96"
@@ -1038,7 +1047,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 141.6507127822 81.1671842700 A 48.0000000000 48.0000000000 0 0 0 96.0000000000 48.0000000000"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="96"
     />
@@ -1054,7 +1063,7 @@ exports[`Meter size 1`] = `
       cy="192"
       fill="none"
       r="96"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="192"
@@ -1062,7 +1071,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 283.3014255643 162.3343685400 A 96.0000000000 96.0000000000 0 0 0 192.0000000000 96.0000000000"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="192"
     />
@@ -1078,7 +1087,7 @@ exports[`Meter size 1`] = `
       cy="384"
       fill="none"
       r="192"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="384"
@@ -1086,7 +1095,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 566.6028511287 324.6687370800 A 192.0000000000 192.0000000000 0 0 0 384.0000000000 192.0000000000"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="384"
     />
@@ -1102,7 +1111,7 @@ exports[`Meter size 1`] = `
       cy="576"
       fill="none"
       r="288"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="576"
@@ -1110,7 +1119,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 849.9042766930 487.0031056200 A 288.0000000000 288.0000000000 0 0 0 576.0000000000 288.0000000000"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="576"
     />
@@ -1126,7 +1135,7 @@ exports[`Meter size 1`] = `
       cy="27.5"
       fill="none"
       r="13.75"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="27.5"
@@ -1134,7 +1143,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 40.5770270991 23.2510163273 A 13.7500000000 13.7500000000 0 0 0 27.5000000000 13.7500000000"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="27.5"
     />
@@ -1150,7 +1159,7 @@ exports[`Meter size 1`] = `
       cy="144"
       fill="none"
       r="72"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="144"
@@ -1158,7 +1167,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 212.4760691733 121.7507764050 A 72.0000000000 72.0000000000 0 0 0 144.0000000000 72.0000000000"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="144"
     />
@@ -1172,7 +1181,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 84.0000000000 48.0000000000 A 36.0000000000 36.0000000000 0 0 0 12.0000000000 48.0000000000"
       fill="none"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -1180,7 +1189,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 18.8753882025 26.8397309175 A 36.0000000000 36.0000000000 0 0 0 12.0000000000 48.0000000000"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
@@ -1194,7 +1203,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 180.0000000000 96.0000000000 A 84.0000000000 84.0000000000 0 0 0 12.0000000000 96.0000000000"
       fill="none"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -1202,7 +1211,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 28.0425724725 46.6260388074 A 84.0000000000 84.0000000000 0 0 0 12.0000000000 96.0000000000"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
@@ -1216,7 +1225,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 372.0000000000 192.0000000000 A 180.0000000000 180.0000000000 0 0 0 12.0000000000 192.0000000000"
       fill="none"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -1224,7 +1233,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 46.3769410125 86.1986545874 A 180.0000000000 180.0000000000 0 0 0 12.0000000000 192.0000000000"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
@@ -1238,7 +1247,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 756.0000000000 384.0000000000 A 372.0000000000 372.0000000000 0 0 0 12.0000000000 384.0000000000"
       fill="none"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -1246,7 +1255,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 83.0456780925 165.3438861472 A 372.0000000000 372.0000000000 0 0 0 12.0000000000 384.0000000000"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
@@ -1260,7 +1269,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 1140.0000000000 576.0000000000 A 564.0000000000 564.0000000000 0 0 0 12.0000000000 576.0000000000"
       fill="none"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -1268,7 +1277,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 119.7144151725 244.4891177070 A 564.0000000000 564.0000000000 0 0 0 12.0000000000 576.0000000000"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
@@ -1282,7 +1291,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 43.0000000000 27.5000000000 A 15.5000000000 15.5000000000 0 0 0 12.0000000000 27.5000000000"
       fill="none"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -1290,7 +1299,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 14.9602365872 18.3893285895 A 15.5000000000 15.5000000000 0 0 0 12.0000000000 27.5000000000"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
@@ -1304,7 +1313,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 276.0000000000 144.0000000000 A 132.0000000000 132.0000000000 0 0 0 12.0000000000 144.0000000000"
       fill="none"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -1312,7 +1321,7 @@ exports[`Meter size 1`] = `
     <path
       d="M 37.2097567425 66.4123466974 A 132.0000000000 132.0000000000 0 0 0 12.0000000000 144.0000000000"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
@@ -1324,6 +1333,8 @@ exports[`Meter thickness 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -1337,7 +1348,6 @@ exports[`Meter thickness 1`] = `
 }
 
 .c1 path {
-  -webkit-transition: stroke 0.3s,stroke-width 0.3s;
   transition: stroke 0.3s,stroke-width 0.3s;
 }
 
@@ -1354,7 +1364,7 @@ exports[`Meter thickness 1`] = `
     <path
       d="M 0,3 L 384,3"
       fill="none"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="6"
@@ -1362,7 +1372,7 @@ exports[`Meter thickness 1`] = `
     <path
       d="M 0,3 L 76.8,3"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="6"
     />
@@ -1377,7 +1387,7 @@ exports[`Meter thickness 1`] = `
     <path
       d="M 0,6 L 384,6"
       fill="none"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="12"
@@ -1385,7 +1395,7 @@ exports[`Meter thickness 1`] = `
     <path
       d="M 0,6 L 76.8,6"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="12"
     />
@@ -1400,7 +1410,7 @@ exports[`Meter thickness 1`] = `
     <path
       d="M 0,12 L 384,12"
       fill="none"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -1408,7 +1418,7 @@ exports[`Meter thickness 1`] = `
     <path
       d="M 0,12 L 76.8,12"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
@@ -1423,7 +1433,7 @@ exports[`Meter thickness 1`] = `
     <path
       d="M 0,24 L 384,24"
       fill="none"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="48"
@@ -1431,7 +1441,7 @@ exports[`Meter thickness 1`] = `
     <path
       d="M 0,24 L 76.8,24"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="48"
     />
@@ -1446,7 +1456,7 @@ exports[`Meter thickness 1`] = `
     <path
       d="M 0,48 L 384,48"
       fill="none"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="96"
@@ -1454,7 +1464,7 @@ exports[`Meter thickness 1`] = `
     <path
       d="M 0,48 L 76.8,48"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="96"
     />
@@ -1469,7 +1479,7 @@ exports[`Meter thickness 1`] = `
     <path
       d="M 0,27.5 L 384,27.5"
       fill="none"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="55"
@@ -1477,7 +1487,7 @@ exports[`Meter thickness 1`] = `
     <path
       d="M 0,27.5 L 76.8,27.5"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="55"
     />
@@ -1493,7 +1503,7 @@ exports[`Meter thickness 1`] = `
       cy="192"
       fill="none"
       r="189"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="6"
@@ -1501,7 +1511,7 @@ exports[`Meter thickness 1`] = `
     <path
       d="M 371.7496815798 133.5957880631 A 189.0000000000 189.0000000000 0 0 0 192.0000000000 3.0000000000"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="6"
     />
@@ -1517,7 +1527,7 @@ exports[`Meter thickness 1`] = `
       cy="192"
       fill="none"
       r="186"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="12"
@@ -1525,7 +1535,7 @@ exports[`Meter thickness 1`] = `
     <path
       d="M 368.8965120309 134.5228390463 A 186.0000000000 186.0000000000 0 0 0 192.0000000000 6.0000000000"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="12"
     />
@@ -1541,7 +1551,7 @@ exports[`Meter thickness 1`] = `
       cy="192"
       fill="none"
       r="180"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -1549,7 +1559,7 @@ exports[`Meter thickness 1`] = `
     <path
       d="M 363.1901729331 136.3769410125 A 180.0000000000 180.0000000000 0 0 0 192.0000000000 12.0000000000"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
@@ -1565,7 +1575,7 @@ exports[`Meter thickness 1`] = `
       cy="192"
       fill="none"
       r="168"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="48"
@@ -1573,7 +1583,7 @@ exports[`Meter thickness 1`] = `
     <path
       d="M 351.7774947376 140.0851449450 A 168.0000000000 168.0000000000 0 0 0 192.0000000000 24.0000000000"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="48"
     />
@@ -1589,7 +1599,7 @@ exports[`Meter thickness 1`] = `
       cy="192"
       fill="none"
       r="144"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="96"
@@ -1597,7 +1607,7 @@ exports[`Meter thickness 1`] = `
     <path
       d="M 328.9521383465 147.5015528100 A 144.0000000000 144.0000000000 0 0 0 192.0000000000 48.0000000000"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="96"
     />
@@ -1613,7 +1623,7 @@ exports[`Meter thickness 1`] = `
       cy="192"
       fill="none"
       r="164.5"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="55"
@@ -1621,7 +1631,7 @@ exports[`Meter thickness 1`] = `
     <path
       d="M 348.4487969306 141.1667044253 A 164.5000000000 164.5000000000 0 0 0 192.0000000000 27.5000000000"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="55"
     />
@@ -1633,6 +1643,8 @@ exports[`Meter type 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -1646,7 +1658,6 @@ exports[`Meter type 1`] = `
 }
 
 .c1 path {
-  -webkit-transition: stroke 0.3s,stroke-width 0.3s;
   transition: stroke 0.3s,stroke-width 0.3s;
 }
 
@@ -1663,7 +1674,7 @@ exports[`Meter type 1`] = `
     <path
       d="M 0,12 L 384,12"
       fill="none"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -1671,7 +1682,7 @@ exports[`Meter type 1`] = `
     <path
       d="M 0,12 L 76.8,12"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
@@ -1687,7 +1698,7 @@ exports[`Meter type 1`] = `
       cy="192"
       fill="none"
       r="180"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -1695,7 +1706,7 @@ exports[`Meter type 1`] = `
     <path
       d="M 363.1901729331 136.3769410125 A 180.0000000000 180.0000000000 0 0 0 192.0000000000 12.0000000000"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
@@ -1711,7 +1722,7 @@ exports[`Meter type 1`] = `
       cy="192"
       fill="none"
       r="96"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="192"
@@ -1719,7 +1730,7 @@ exports[`Meter type 1`] = `
     <path
       d="M 283.3014255643 162.3343685400 A 96.0000000000 96.0000000000 0 0 0 192.0000000000 96.0000000000"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="192"
     />
@@ -1733,7 +1744,7 @@ exports[`Meter type 1`] = `
     <path
       d="M 372.0000000000 192.0000000000 A 180.0000000000 180.0000000000 0 0 0 12.0000000000 192.0000000000"
       fill="none"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -1741,7 +1752,7 @@ exports[`Meter type 1`] = `
     <path
       d="M 46.3769410125 86.1986545874 A 180.0000000000 180.0000000000 0 0 0 12.0000000000 192.0000000000"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="24"
     />
@@ -1753,6 +1764,8 @@ exports[`Meter vertical 1`] = `
 .c0 {
   font-size: 18px;
   line-height: 24px;
+  background-color: #FFFFFF;
+  color: #444444;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -1766,7 +1779,6 @@ exports[`Meter vertical 1`] = `
 }
 
 .c1 path {
-  -webkit-transition: stroke 0.3s,stroke-width 0.3s;
   transition: stroke 0.3s,stroke-width 0.3s;
 }
 
@@ -1783,7 +1795,7 @@ exports[`Meter vertical 1`] = `
     <path
       d="M 12,0 L 12,384"
       fill="none"
-      stroke="#F2F2F2"
+      stroke="light-2"
       stroke-linecap="square"
       stroke-opacity="0.4"
       stroke-width="24"
@@ -1791,7 +1803,7 @@ exports[`Meter vertical 1`] = `
     <path
       d="M 12,384 L 12,307.2"
       fill="none"
-      stroke="#6FFFB0"
+      stroke="#C68E17"
       stroke-linecap="butt"
       stroke-width="384"
     />
