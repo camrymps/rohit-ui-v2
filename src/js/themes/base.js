@@ -116,43 +116,43 @@ const focusColor = accentColors[0]; */
 const colors = {
   'brand': {
     'dark': 'caramel-daddy',
-    'light': 'caramel-daddy'
+    'light': 'caramel-daddy',
   },
   'background': {
     'light': 'baleigh',
-    'dark': 'michael-blackson-inverted'
+    'dark': 'michael-blackson-inverted',
   },
   'background-back': {
     'light': 'slightly-darker-baleigh',
-    'dark': 'michael-blackson-inverted'
+    'dark': 'michael-blackson-inverted',
   },
   'background-front': {
     'light': 'baleigh',
-    'dark': 'slightly-lighter-michael-blackson-inverted'
+    'dark': 'slightly-lighter-michael-blackson-inverted',
   },
   'background-contrast': {
     'light': 'slightly-darker-baleigh',
-    'dark': 'michael-blackson'
+    'dark': 'michael-blackson',
   },
   'text': {
     'light': 'slightly-lighter-michael-blackson',
-    'dark': 'michael-blackson-and-baleigh-had-a-baby'
+    'dark': 'michael-blackson-and-baleigh-had-a-baby',
   },
   'text-strong': {
     'dark': 'baleigh',
-    'light': 'michael-blackson'
+    'light': 'michael-blackson',
   },
   'text-weak': {
     'light': 'slightly-lighter-michael-blackson',
-    'dark': 'michael-blackson-and-baleigh-had-a-baby'
+    'dark': 'michael-blackson-and-baleigh-had-a-baby',
   },
   'text-xweak': {
     'dark': 'even-slightly-lighter-michael-blackson',
-    'light': 'even-slightly-lighter-michael-blackson'
+    'light': 'even-slightly-lighter-michael-blackson',
   },
   'border': {
     'dark': 'michael-blackson',
-    'light': 'michael-blackson-and-baleigh-had-a-baby'
+    'light': 'michael-blackson-and-baleigh-had-a-baby',
   },
   'active-background': 'background-contrast',
   'active-text': 'text-strong',
@@ -167,133 +167,133 @@ const colors = {
   'graph-1': 'status-warning',
   'caramel-daddy': {
     'dark': '#FFD59A',
-    'light': '#C68E17'
+    'light': '#C68E17',
   },
   'caramel-daddy!': '',
   'michael-blackson': {
     'dark': '#454545',
-    'light': '#000000'
+    'light': '#000000',
   },
   'michael-blackson!': '',
   'baleigh': {
     'dark': '#F1F1F1',
-    'light': '#FFFFFF'
+    'light': '#FFFFFF',
   },
   'baleigh!': '',
   'sun-bathed-baleigh': {
     'dark': '#FFCCCB',
-    'light': '#FF0000'
+    'light': '#FF0000',
   },
   'sun-bathed-baleigh!': '',
   'esodaaa': {
     'dark': '#F56991',
-    'light': '#DC143C'
+    'light': '#DC143C',
   },
   'esodaaa!': '',
   'chocolate-milf': {
     'dark': '#976f4c',
-    'light': '#84563c'
+    'light': '#84563c',
   },
   'chocolate-milf!': '',
   'jcob': {
     'dark': '#90ee90',
-    'light': '#00FF00'
+    'light': '#00FF00',
   },
   'jcob!': '',
   'jack-the-navy-guy': {
     'dark': '#2E5A88',
-    'light': '#000080'
+    'light': '#000080',
   },
   'jack-the-navy-guy!': '',
   'lexus-blue': {
     'dark': '#0d2ea3',
-    'light': '#0d2475'
+    'light': '#0d2475',
   },
   'lexus-blue!': '',
   'control': {
     'light': 'brand',
-    'dark': 'brand'
+    'dark': 'brand',
   },
   'focus': {
     'light': 'caramel-daddy',
-    'dark': 'caramel-daddy'
+    'dark': 'caramel-daddy',
   },
   'slightly-lighter-michael-blackson': {
     'dark': '#999999',
-    'light': '#444444'
+    'light': '#444444',
   },
   'slightly-lighter-michael-blackson!': '',
   'michael-blackson-and-baleigh-had-a-baby': {
     'dark': '#CCCCCC',
-    'light': '#A9A9A9'
+    'light': '#A9A9A9',
   },
   'michael-blackson-and-baleigh-had-a-baby!': '',
   'even-slightly-lighter-michael-blackson': {
     'dark': '#C9C9C9',
-    'light': '#666666'
+    'light': '#666666',
   },
   'even-slightly-lighter-michael-blackson!': '',
   'slightly-darker-baleigh': {
     'dark': '#E9E9E9',
-    'light': '#EEEEEE'
+    'light': '#EEEEEE',
   },
   'slightly-darker-baleigh!': '',
   'michael-blackson-inverted': {
     'dark': '#111111',
-    'light': '#454545'
+    'light': '#454545',
   },
   'michael-blackson-inverted!': '',
   'slightly-lighter-michael-blackson-inverted': {
     'dark': '#222222',
-    'light': '#999999'
+    'light': '#999999',
   },
   'slightly-lighter-michael-blackson-inverted!': '',
   'donald-j-trump': {
     'dark': '#FFB347',
-    'light': '#FFA500'
+    'light': '#FFA500',
   },
   'donald-j-trump!': '',
   'caramel-daddy-inverted': {
     'dark': '#C68E17',
-    'light': '#FFD59A'
+    'light': '#FFD59A',
   },
   'caramel-daddy-inverted!': '',
   'sun-bathed-baleigh-inverted': {
     'dark': '#FF0000',
-    'light': '#FFCCCB'
+    'light': '#FFCCCB',
   },
   'sun-bathed-baleigh-inverted!': '',
   'baleigh-inverted': {
     'dark': '#FFFFFF',
-    'light': '#F1F1F1'
+    'light': '#F1F1F1',
   },
   'baleigh-inverted!': '',
   'jcob-inverted': {
     'dark': '#00FF00',
-    'light': '#90ee90'
+    'light': '#90ee90',
   },
   'jcob-inverted!': '',
   'chocolate-milf-inverted': {
     'dark': '#84563c',
-    'light': '#976f4c'
+    'light': '#976f4c',
   },
   'chocolate-milf-inverted!': '',
   'esodaaa-inverted': {
     'dark': '#DC143C',
-    'light': '#F56991'
+    'light': '#F56991',
   },
   'esodaaa-inverted!': '',
   'jack-the-navy-guy-inverted': {
     'dark': '#000080',
-    'light': '#2E5A88'
+    'light': '#2E5A88',
   },
   'jack-the-navy-guy-inverted!': '',
   'lexus-blue-inverted': {
     'dark': '#0d2ea3',
-    'light': '#0d2475'
+    'light': '#0d2475',
   },
-  'lexus-blue-inverted!': ''
-}
+  'lexus-blue-inverted!': '',
+};
 
 /* const colorArray = (array, prefix) =>
   array.forEach((color, index) => {
