@@ -1,0 +1,313 @@
+{
+    "name": "rohit-theme",
+    "rounding": 4,
+    "spacing": 24,
+    "defaultMode": "light",
+    "global": {
+      "colors": {
+        "brand": {
+          "dark": "caramel-daddy",
+          "light": "caramel-daddy"
+        },
+        "background": {
+          "light": "baleigh",
+          "dark": "michael-blackson-inverted"
+        },
+        "background-back": {
+          "light": "slightly-darker-baleigh",
+          "dark": "michael-blackson-inverted"
+        },
+        "background-front": {
+          "light": "baleigh",
+          "dark": "slightly-lighter-michael-blackson-inverted"
+        },
+        "background-contrast": {
+          "light": "slightly-darker-baleigh",
+          "dark": "michael-blackson"
+        },
+        "text": {
+          "light": "slightly-lighter-michael-blackson",
+          "dark": "michael-blackson-and-baleigh-had-a-baby"
+        },
+        "text-strong": {
+          "dark": "baleigh",
+          "light": "michael-blackson"
+        },
+        "text-weak": {
+          "light": "slightly-lighter-michael-blackson",
+          "dark": "michael-blackson-and-baleigh-had-a-baby"
+        },
+        "text-xweak": {
+          "dark": "even-slightly-lighter-michael-blackson",
+          "light": "even-slightly-lighter-michael-blackson"
+        },
+        "border": {
+          "dark": "michael-blackson",
+          "light": "michael-blackson-and-baleigh-had-a-baby"
+        },
+        "active-background": "background-contrast",
+        "active-text": "text-strong",
+        "selected-background": "brand",
+        "selected-text": "text-strong",
+        "status-critical": "esodaaa",
+        "status-warning": "donald-j-trump",
+        "status-ok": "jcob",
+        "status-unknown": "michael-blackson-and-michael-jackson-had-a-baby",
+        "status-disabled": "michael-blackson-and-michael-jackson-had-a-baby",
+        "graph-0": "brand",
+        "graph-1": "status-warning",
+        "caramel-daddy": {
+          "dark": "#FFD59A",
+          "light": "#C68E17"
+        },
+        "caramel-daddy!": "",
+        "michael-blackson": {
+          "dark": "#454545",
+          "light": "#000000"
+        },
+        "michael-blackson!": "",
+        "baleigh": {
+          "dark": "#F1F1F1",
+          "light": "#FFFFFF"
+        },
+        "baleigh!": "",
+        "sun-bathed-baleigh": {
+          "dark": "#FFCCCB",
+          "light": "#FF0000"
+        },
+        "sun-bathed-baleigh!": "",
+        "esodaaa": {
+          "dark": "#F56991",
+          "light": "#DC143C"
+        },
+        "esodaaa!": "",
+        "chocolate-milf": {
+          "dark": "#976f4c",
+          "light": "#84563c"
+        },
+        "chocolate-milf!": "",
+        "jcob": {
+          "dark": "#90ee90",
+          "light": "#00FF00"
+        },
+        "jcob!": "",
+        "jack-the-navy-guy": {
+          "dark": "#2E5A88",
+          "light": "#000080"
+        },
+        "jack-the-navy-guy!": "",
+        "lexus-blue": {
+          "dark": "#0d2ea3",
+          "light": "#0d2475"
+        },
+        "lexus-blue!": "",
+        "control": {
+          "light": "brand",
+          "dark": "brand"
+        },
+        "focus": {
+          "light": "caramel-daddy",
+          "dark": "caramel-daddy"
+        },
+        "slightly-lighter-michael-blackson": {
+          "dark": "#999999",
+          "light": "#444444"
+        },
+        "slightly-lighter-michael-blackson!": "",
+        "michael-blackson-and-baleigh-had-a-baby": {
+          "dark": "#CCCCCC",
+          "light": "#A9A9A9"
+        },
+        "michael-blackson-and-baleigh-had-a-baby!": "",
+        "even-slightly-lighter-michael-blackson": {
+          "dark": "#C9C9C9",
+          "light": "#666666"
+        },
+        "even-slightly-lighter-michael-blackson!": "",
+        "slightly-darker-baleigh": {
+          "dark": "#E9E9E9",
+          "light": "#EEEEEE"
+        },
+        "slightly-darker-baleigh!": "",
+        "michael-blackson-inverted": {
+          "dark": "#111111",
+          "light": "#454545"
+        },
+        "michael-blackson-inverted!": "",
+        "slightly-lighter-michael-blackson-inverted": {
+          "dark": "#222222",
+          "light": "#999999"
+        },
+        "slightly-lighter-michael-blackson-inverted!": "",
+        "donald-j-trump": {
+          "dark": "#FFB347",
+          "light": "#FFA500"
+        },
+        "donald-j-trump!": "",
+        "caramel-daddy-inverted": {
+          "dark": "#C68E17",
+          "light": "#FFD59A"
+        },
+        "caramel-daddy-inverted!": "",
+        "sun-bathed-baleigh-inverted": {
+          "dark": "#FF0000",
+          "light": "#FFCCCB"
+        },
+        "sun-bathed-baleigh-inverted!": "",
+        "baleigh-inverted": {
+          "dark": "#FFFFFF",
+          "light": "#F1F1F1"
+        },
+        "baleigh-inverted!": "",
+        "jcob-inverted": {
+          "dark": "#00FF00",
+          "light": "#90ee90"
+        },
+        "jcob-inverted!": "",
+        "chocolate-milf-inverted": {
+          "dark": "#84563c",
+          "light": "#976f4c"
+        },
+        "chocolate-milf-inverted!": "",
+        "esodaaa-inverted": {
+          "dark": "#DC143C",
+          "light": "#F56991"
+        },
+        "esodaaa-inverted!": "",
+        "jack-the-navy-guy-inverted": {
+          "dark": "#000080",
+          "light": "#2E5A88"
+        },
+        "jack-the-navy-guy-inverted!": "",
+        "lexus-blue-inverted": {
+          "dark": "#0d2ea3",
+          "light": "#0d2475"
+        },
+        "lexus-blue-inverted!": ""
+      },
+      "font": {
+        "family": "Helvetica"
+      },
+      "active": {
+        "background": "active-background",
+        "color": "active-text"
+      },
+      "hover": {
+        "background": "active-background",
+        "color": "active-text"
+      },
+      "selected": {
+        "background": "selected-background",
+        "color": "selected-text"
+      },
+      "control": {
+        "border": {
+          "radius": "4px"
+        }
+      },
+      "drop": {
+        "border": {
+          "radius": "4px"
+        }
+      }
+    },
+    "chart": {},
+    "diagram": {
+      "line": {}
+    },
+    "meter": {},
+    "tip": {
+      "content": {
+        "background": {
+          "color": "background"
+        },
+        "elevation": "none",
+        "round": false
+      }
+    },
+    "layer": {
+      "background": {
+        "light": "baleigh",
+        "dark": "michael-blackson-inverted"
+      }
+    },
+    "button": {
+      "border": {
+        "radius": "4px"
+      }
+    },
+    "checkBox": {
+      "check": {
+        "radius": "4px"
+      },
+      "toggle": {
+        "radius": "4px"
+      }
+    },
+    "radioButton": {
+      "check": {
+        "radius": "4px"
+      }
+    },
+    "formField": {
+      "border": {
+        "color": "border",
+        "error": {
+          "color": {
+            "dark": "white",
+            "light": "status-critical"
+          }
+        },
+        "position": "inner",
+        "side": "bottom"
+      },
+      "content": {
+        "pad": "small"
+      },
+      "disabled": {
+        "background": {
+          "color": "status-disabled",
+          "opacity": "medium"
+        }
+      },
+      "error": {
+        "color": "status-critical",
+        "margin": {
+          "vertical": "xsmall",
+          "horizontal": "small"
+        }
+      },
+      "help": {
+        "color": "dark-3",
+        "margin": {
+          "start": "small"
+        }
+      },
+      "info": {
+        "color": "text-xweak",
+        "margin": {
+          "vertical": "xsmall",
+          "horizontal": "small"
+        }
+      },
+      "label": {
+        "margin": {
+          "vertical": "xsmall",
+          "horizontal": "small"
+        }
+      },
+      "margin": {
+        "bottom": "small"
+      },
+      "survey": {
+        "label": {
+          "margin": {
+            "bottom": "xsmall"
+          },
+          "size": "medium",
+          "weight": 400
+        }
+      },
+      "round": "4px"
+    }
+  }
